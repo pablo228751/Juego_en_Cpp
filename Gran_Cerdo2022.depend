@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1668309186 source:c:\users\pc\documents\cpp\gran_cerdo2022\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<bits/stdc++.h>
+	<ctime>
+	<locale.h>
+	<string>
+	"animaciones.h"
+	"cerditos_y_estadisticas.h"
+	"analiza_resultados.h"
+	"rlutil.h"
+
+1655915079 c:\users\pc\documents\cpp\gran_cerdo2022\animaciones.h
+	<iostream>
+	<windows.h>
+	"rlutil.h"
+
+1655905351 c:\users\pc\documents\cpp\gran_cerdo2022\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655902180 c:\users\pc\documents\cpp\gran_cerdo2022\cerditos_y_estadisticas.h
+	<iostream>
+	<string>
+	<windows.h>
+	"animaciones.h"
+	"cerditos_y_estadisticas.h"
+
+1656106860 c:\users\pc\documents\cpp\gran_cerdo2022\analiza_resultados.h
+	<iostream>
+
+1656111528 source:c:\users\pc\documents\cpp\gran_cerdo2022\analiza_resultados.cpp
+	"analiza_resultados.h"
+
+1655946329 source:c:\users\pc\documents\cpp\gran_cerdo2022\animaciones.cpp
+	"animaciones.h"
+
+1655945862 source:c:\users\pc\documents\cpp\gran_cerdo2022\cerditos_y_estadisticas.cpp
+	"cerditos_y_estadisticas.h"
+
+1656695373 source:c:\users\pc\documents\cpp\gran_cerdo2022\dibujar_dados.cpp
+
