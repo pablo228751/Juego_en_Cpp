@@ -1,7 +1,7 @@
 <h1 align="center">Juego de consola en C++</h1>
 
 <p align="center">
-  <img src="imagen.png" alt="Captura de Pantalla">
+  <img src="imagen1.png" alt="Captura de Pantalla">
 </p>
 
 <p align="center">
