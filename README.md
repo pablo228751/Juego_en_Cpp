@@ -12,13 +12,5 @@ Las reglas estan adjuntas en los archivos en formato PDF.
 
 
 ## Video
-
 [![Juego](https://img.youtube.com/vi/6Pb5VGrqCtw/1.jpg)](https://www.youtube.com/watch?v=6Pb5VGrqCtw)
 
-
-
-
-
-## Licencia
-
-Mi proyecto genial está bajo la licencia MIT. Ver `LICENSE` para más información.
